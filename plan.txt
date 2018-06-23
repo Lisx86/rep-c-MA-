@@ -1,0 +1,17 @@
+01.General
+02.EnvironmentVariablesTypes
+03.IoAndOperations
+04.StandartFuntions
+05.ConditionsAndLoops
+06.UnidimensionalArrays
+07.PointersAndBidimensionalArrays
+08.UserFunctions
+09.StructuresAnd3TypesOfArgumentPassing
+10.AlgorighmsForStrogify01-09
+11.OopIntroduction
+12.ClassModifiersCtrosDtors
+13.LinkedLists
+14.StaticFriendFunctionsOperatorsOverloading
+15.Templates
+16.CompositionAndInheritance
+17.Exceptions
