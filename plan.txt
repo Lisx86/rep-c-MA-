@@ -15,3 +15,4 @@
 15.Templates
 16.CompositionAndInheritance
 17.Exceptions
+18.DesignPatterns
